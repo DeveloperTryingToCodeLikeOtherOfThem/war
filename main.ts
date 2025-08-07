@@ -87,7 +87,7 @@ namespace war {
 
     //% blockId="game_war_sprite" block="$throwObjectsFrom $image"
     //% throwObjectFrom.shadow=variables_get(mySprite)
-    //% image.shadow=screen_image_picker
+    //% image.shadow=screen_image_picker blockSetVariable=createWarSprite
     export function createWar(throwObjectFrom: Sprite, image: Image): War {
         const war = new War(throwObjectFrom, image)
         return war;
