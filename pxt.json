@@ -21,7 +21,8 @@
         "targetId": "arcade"
     },
     "supportedTargets": [
-        "arcade"
+        "arcade",
+        "pxt"
     ],
     "preferredEditor": "tsprj"
 }
