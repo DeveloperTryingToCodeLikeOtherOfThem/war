@@ -1,4 +1,14 @@
- 
+# Engine Sprites
+
+This extension provides engine-style sprite controls for MakeCode Arcade.
+
+![preview](images/preview.gif)
+
+## Usage
+
+```ts
+let s = war.create(mysprite, img`.`)
+
 
 
 > Open this page at [https://developertryingtocodelikeotherofthem.github.io/war/](https://developertryingtocodelikeotherofthem.github.io/war/)
