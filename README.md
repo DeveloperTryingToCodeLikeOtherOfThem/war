@@ -1,20 +1,4 @@
-![preview](images/preview.gif)
-
-# Engine Sprites
-
-This extension provides engine-style sprite controls for MakeCode Arcade.
-
-## Usage
-
-```ts
-let s = war.create(mysprite, img`
-    . . . . . . 
-    . # # # # . 
-    . # . . # . 
-    . # # # # . 
-    . . . . . . 
-`)
-
+## How to use this repository correctly?
 Open this page at https://developertryingtocodelikeotherofthem.github.io/war/
 
 Use as Extension
@@ -38,6 +22,23 @@ click on Import → Import URL
 paste: https://github.com/developertryingtocodelikeotherofthem/war
 
 then click Go Ahead!
+![preview](images/preview.gif)
 
-Metadata (used for search, rendering)
+# Engine Sprites
+
+This extension provides engine-style sprite controls for MakeCode Arcade.
+
+## Example
+
+```ts
+let s = war.create(mysprite, img`
+    . . . . . . 
+    . # # # # . 
+    . # . . # . 
+    . # # # # . 
+    . . . . . . 
+`)
+
+
 for PXT/arcade
+```
