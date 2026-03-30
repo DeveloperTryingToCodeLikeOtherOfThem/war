@@ -41,36 +41,3 @@ then click Go Ahead!
 
 Metadata (used for search, rendering)
 for PXT/arcade
-
-yaml
-Copy
-Edit
-
----
-
-### ✅ Make sure:
-
-1. Your image is in this path:
-images/preview.gif
-
-yaml
-Copy
-Edit
-(or `images/preview.png`, just change the line if needed)
-
-2. Your repository is public.
-
-3. You **commit and push** the updated `README.md`.
-
----
-
-Let me know when you want help making a better preview GIF or writing the next section of your engine.
-
-
-
-
-
-
-
-
-Ask ChatGPT
