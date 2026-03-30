@@ -1,3 +1,5 @@
+## Target
+for PXT/arcade
 ## How to use this repository correctly?
 Open this page at https://developertryingtocodelikeotherofthem.github.io/war/
 
@@ -38,7 +40,4 @@ let s = war.create(mysprite, img`
     . # # # # . 
     . . . . . . 
 `)
-
-
-for PXT/arcade
 ```
